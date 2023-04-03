@@ -1,0 +1,10 @@
+2023-04-03 02:13:03.710712 - Initialized conversion of CBT723
+2023-04-03 02:13:03.774897 - Received CBT.V504.FILE723.PDS from FILE723.XMI 
+2023-04-03 02:13:03.777244 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE723.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:13:03.778256 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE723.PDS, moved to PDS/$$$DOC
+2023-04-03 02:13:03.779672 - Found @FILE723.txt (text/plain) in CBT.V504.FILE723.PDS, moved to PDS/@FILE723
+2023-04-03 02:13:03.780637 - Found CLCCSTOR.txt (text/plain) in CBT.V504.FILE723.PDS, moved to PDS/CLCCSTOR
+2023-04-03 02:13:03.781661 - Found SHOWMEM.txt (text/plain) in CBT.V504.FILE723.PDS, moved to PDS/SHOWMEM
+2023-04-03 02:13:03.782607 - Found SHOWMEMP.txt (text/plain) in CBT.V504.FILE723.PDS, moved to PDS/SHOWMEMP
+2023-04-03 02:13:03.783720 - Found SHOWSTO#.txt (text/plain) in CBT.V504.FILE723.PDS, moved to PDS/SHOWSTO#
+2023-04-03 02:13:03.784743 - Found SHOWSTOR.txt (text/plain) in CBT.V504.FILE723.PDS, moved to PDS/SHOWSTOR
